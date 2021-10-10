@@ -1,2 +1,2 @@
-# dio-desafio-github-1--reposit-rio
+# Primeiro desafio Digital Innovation One - Eduzz Camp - Bootcamp
 Desafio de projeto sobre github - Bootcamp
